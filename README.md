@@ -130,7 +130,8 @@ pip install pandas scikit-learn matplotlib seaborn
 * Enhanced feature engineering for improved accuracy
 
 ---
-
+##The source code is available on GitHub:
+https://github.com/nuha-salih/Solar-Storm-prediction
 ## Team Members
 
 
